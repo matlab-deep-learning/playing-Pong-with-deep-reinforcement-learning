@@ -5,7 +5,7 @@ This example demonstrates a reinforcement learning agent playing a variation of 
 
 # Prerequisites
 This example requires installation of the following software:
-1. [MATLAB](https://www.mathworks.com/products/matlab.html) R2019a or later
+1. [MATLAB](https://www.mathworks.com/products/matlab.html) R2020b or later
 2. [Deep Learning Toolbox&trade;](https://www.mathworks.com/products/deep-learning.html)
 3. [Reinforcement Learning Toolbox](https://www.mathworks.com/products/reinforcement-learning.html)
 
