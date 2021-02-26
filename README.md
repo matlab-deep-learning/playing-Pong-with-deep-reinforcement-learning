@@ -49,5 +49,5 @@ For additional resources on reinforcement learning, take a look at the following
 - [Balancing a ball with the Kinova arm and RL Video](https://www.mathworks.com/videos/reinforcement-learning-for-ball-balancing-using-a-robot-manipulator-1603362605395.html?s_tid=srchtitle)
 
 
-
+[![View Playing Pong® with deep reinforcement learning on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/87939-playing-pong-with-deep-reinforcement-learning)
 
