@@ -30,6 +30,7 @@ A Deep Deterministic Policy Gradient (DDPG) reinforcement learning agent is used
 2. x, y velocities of the ball
 3. x position of the paddle
 4. x velocity of the paddle
+5. Action values from the last time step
 
 The action of the agent is the _force_ applied on the paddle in the x direction.
 
