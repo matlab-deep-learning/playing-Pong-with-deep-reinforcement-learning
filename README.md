@@ -47,7 +47,7 @@ For additional resources on reinforcement learning, take a look at the following
 - [Free Reinforcement Learning Onramp](https://www.mathworks.com/learn/tutorials/reinforcement-learning-onramp.html)
 - [Reinforcement Learning for an Inverted Pendulum with Image Data Video](https://www.mathworks.com/videos/reinforcement-learning-for-an-inverted-pendulum-with-image-data-1549467410890.html?s_tid=srchtitle)
 - [Deep Reinforcement Learning for Walking Robots Video](https://www.mathworks.com/videos/deep-reinforcement-learning-for-walking-robots--1551449152203.html?s_tid=srchtitle)
-- [Balancing a ball with the Kinova arm and RL Video](https://www.mathworks.com/videos/reinforcement-learning-for-ball-balancing-using-a-robot-manipulator-1603362605395.html?s_tid=srchtitle)
+
 
 
 [![View Playing Pong® with deep reinforcement learning on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/87939-playing-pong-with-deep-reinforcement-learning)
